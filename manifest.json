@@ -1,0 +1,18 @@
+{
+    "background_color": "#82c0bd",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Edu Connect",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Edu Connect",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "id": "EDc",
+    "description": "Aplicativo focado em educação a distância.",
+    "categories": [
+      "education",
+      "kids",
+      "utilities"
+    ]
+  }
